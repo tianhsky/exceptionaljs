@@ -13,4 +13,4 @@ JavaScript error handler to monitor client JS exceptions, client code only, for 
 ## How to use
 
 		exceptionaljs_path = "/js_errors"; // path to post error details, be wary of "same origin polocy"
-		<script src="/path_to/exceptionaljs.js"></script>
+		<script src="/path_to/exceptionaljs.min.js"></script>
